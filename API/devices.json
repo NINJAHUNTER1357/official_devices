@@ -1,0 +1,40 @@
+{
+    "devices": [
+        {
+            "codename": "alioth",
+            "codename_alt": "aliothin",
+            "vendor": "Xiaomi",
+            "model": "Poco F3/Mi 11X/Redmi K40",
+            "maintainer_name": "zenzer0s",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "marble",
+            "codename_alt": "marble/marblein",
+            "vendor": "Xiaomi",
+            "model": "Poco F5/Redmi Note 12 Turbo",
+            "maintainer_name": "beingashwani",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "peridot",
+            "codename_alt": "peridot",
+            "vendor": "Xiaomi",
+            "model": "Redmi Turbo 3 / POCO F6",
+            "maintainer_name": "kenway214",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "onyx",
+            "codename_alt": "onyx",
+            "vendor": "Xiaomi",
+            "model": "Redmi Turbo 4 Pro / POCO F7",
+            "maintainer_name": "SharmagRit",
+            "frame": null,
+            "active": true
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "team": [
+        {
+            "name": "Ashwani",
+            "github": "beingashwani",
+            "telegram": "being_ashwani",
+            "XDA": "https://xdaforums.com/paste_here/",
+            "role": "ASCP Co-founder; Marble Maintainer",
+            "tagline": "No excuses!"
+        },
+        {
+            "name": "Kenway",
+            "github": "kenway214",
+            "telegram": "ph12nex",
+            "XDA": "https://xdaforums.com/paste_here/",
+            "role": "ASCP Co-founder; Peridot Maintainer",
+            "tagline": "Need Anything!"
+        }
+    ]
+}
