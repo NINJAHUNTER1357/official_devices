@@ -1,9 +1,12 @@
-- Latest source changes
+- Latest QPR1 source changes
 - Dec security patch
-- Kernel: Switched to Glacium-2.3
+- Kernel: Switched to Glacium-2.3 (NonRooted)
 - Updated blobs from OS2.0.206.0.VNPMIXM
 - Updated some Camera blobs from aurora for better processing
 - Implement haptics xiaomi effects
+- Implement idle manager for better idle(Enable toggle battery/Idle manager)
+- Dropped parts:Refresh rate impl (use rom per app refresh rate-better)
+- Dropped parts:Saturation impl (use rom impl settings/display/colors)
 - Rework boost freq implementation with seperate implementation
 - Rework fastcharge implementation (custom implementation in slow and superfast mode)
 - Tuned dev-frq boost implementation
