@@ -36,5 +36,14 @@
             "frame": null,
             "active": true
         }
+        {
+            "codename": "tetris",
+            "codename_alt": "tetris",
+            "vendor": "Nothing",
+            "model": "Nothing CMF Phone 1",
+            "maintainer_name": "beingashwani",
+            "frame": null,
+            "active": true
+        }
     ]
 }
