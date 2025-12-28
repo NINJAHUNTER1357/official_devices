@@ -1,5 +1,4 @@
-- Latest QPR1 source changes.
-- Refine powerhint for balanced perf.
-- Fixed the call loud speaker bug.
-- Updated the dolby tuning for better experience.
-- updated blobs and firmware from latest hyperOS 2.0.211 global.
+# 28-12-2025
+- Fixed the issue with no ringtone sound during call in bluetooth.
+- Minor improvements in powerhint.
+- Added built-in latest GameBar implementation.

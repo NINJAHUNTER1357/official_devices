@@ -1,5 +1,9 @@
-# 14-Dec-2025
+# 28-Dec-2025
+- Fixed the issue with no ringtone sound during call in bluetooth.
+- Minor improvements in powerhint.
+- Added built-in latest GameBar implementation.
 
+# 14-Dec-2025
 - Latest QPR1 source changes.
 - Refine powerhint for balanced perf.
 - Fixed the call loud speaker bug.
