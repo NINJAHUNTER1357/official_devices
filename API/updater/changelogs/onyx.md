@@ -1,14 +1,5 @@
-# 16-Dec-2025
+# 28-Dec-2025
 - Synced with latest qpr1 source
-- Enabled the 1k nits brightness by default
-- Disable Lift to check by default
-- Partially import parts from sm8350-common:
-* Thermals
-* Per-app refresh rate
-* Clear speaker
-* Doze
-- Force enable volte and wifi calling
-- Fixed USSD dial issue
-- Enabled 120Hz Keyguard
-- Optimize SurfaceFlinger properties for graphics performance(This should improve graphics performance, smoothness, and screen responsiveness)
-- Add Gcam by default
+- Add props to improve battery backup
+- Optimize auto brightness adjustment
+- Tune ambient display burn-in protection

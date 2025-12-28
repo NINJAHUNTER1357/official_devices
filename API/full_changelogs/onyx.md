@@ -1,3 +1,8 @@
+# 28-Dec-2025
+- Add props to improve battery backup
+- Optimize auto brightness adjustment
+- Tune ambient display burn-in protection
+
 # 16-Dec-2025
 - Synced with latest qpr1 source
 - enabled the 1k nits brightness by default
