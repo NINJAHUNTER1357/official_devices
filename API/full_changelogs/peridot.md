@@ -1,3 +1,18 @@
+# 28-Dec-2025
+
+- Latest QPR1 source changes
+- Dec security patch
+- Kernel: Switched to Glacium-2.5 (NonRooted)
+- Updated blobs from OS2.0.207.0.VNPMIXM
+- Better tuned devfreq boost for better performance, active and idle drain
+- Implemented touch based input boost in gameboost mode for better scrooling/finger movement (wip)
+- Impletemted focaltech game mode touch delay fix (still under testing) (use htsr switch to apply)
+- updated some graphics blobs for better stability
+- Implemented camera privacy toggle
+- Minor improvement in autobrightness responsivity
+- Misc Other Changes
+
+
 # 14-Dec-2025
 
 - Latest QPR1 source changes
