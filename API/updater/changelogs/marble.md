@@ -1,4 +1,7 @@
-# 28-12-2025
-- Fixed the issue with no ringtone sound during call in bluetooth.
-- Minor improvements in powerhint.
-- Added built-in latest GameBar implementation.
+# 13-01-2026
+- Updated blobs/firmware from latest hyperOS 2.0.216.0.
+- Updated kernel to version 5.10.246.
+- Updated some stuffs to fix jank in display.
+- Fixed the auto brightness completely.
+- Fixed memory leak in sensor causing issue with auto brightness.
+- Improvement in powerhint.
