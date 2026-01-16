@@ -53,6 +53,18 @@
             "maintainer_name": "Amrutesh",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "munch",
+            "codename_alt": "munchin",
+            "vendor": "Xiaomi",
+            "model": "Poco F4 / Redmi K40S",
+            "maintainer_name": "Kenskuyy",
+            "github_username": "kenaidi01",
+            "image_url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1655810010.28138527.png",
+            "donate_link": "https://t.me/kenskuyyplayground/3004/3007",
+            "frame": null,
+            "active": true
         }
     ]
 }
