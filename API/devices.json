@@ -65,6 +65,18 @@
             "donate_link": "https://t.me/kenskuyyplayground/3004/3007",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "redwood",
+            "codename_alt": "redwood",
+            "vendor": "Xiaomi",
+            "model": "Poco X5 Pro",
+            "maintainer_name": "Mayur_U",
+            "github_username": "Mayur-U",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-pro-5g.jpg",
+            "donate_link": "https://t.me/MayursBuildsUpdates/199",
+            "frame": null,
+            "active": true
         }
     ]
 }
