@@ -1,1 +1,1 @@
--  QPR2 test
+-  Initial QPR2 Release

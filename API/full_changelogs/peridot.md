@@ -1,3 +1,8 @@
+# 18-Jan-2026
+
+- Latest QPR2 source changes
+
+
 # 28-Dec-2025
 
 - Latest QPR1 source changes
