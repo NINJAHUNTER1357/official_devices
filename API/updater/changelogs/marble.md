@@ -1,0 +1,6 @@
+- Initial 16-QPR2
+- Switched to qti perf hal
+- Switched to prebuilt audio hal for better sound quality
+- Improved overall smoothness
+- Fixed dolby issues (switch to old dolby ui)
+- Misc improvements
