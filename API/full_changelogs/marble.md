@@ -1,3 +1,10 @@
+# 20-Jan-2026
+- Switched to qti perf hal
+- Switched to prebuilt audio hal for better sound quality
+- Improved overall smoothness
+- Fixed dolby issues (switch to old dolby ui)
+- Misc improvements
+
 # 13-Jan-2026
 - Updated blobs/firmware from latest hyperOS 2.0.216.0.
 - Updated kernel to version 5.10.246.
