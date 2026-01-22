@@ -1,1 +1,2 @@
--  Initial QPR2 Release
+- Latest Hyperos 3 blobs and firmware based (OS3.0.3.0.WNPEUXM).
+- Kernel: Updated to Glacium-2.6

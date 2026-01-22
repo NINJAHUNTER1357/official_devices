@@ -1,3 +1,9 @@
+# 22-Jan-2026
+
+- Latest Hyperos 3 blobs and firmware based (OS3.0.3.0.WNPEUXM).
+- Kernel: Updated to Glacium-2.6
+
+
 # 18-Jan-2026
 
 - Latest QPR2 source changes
