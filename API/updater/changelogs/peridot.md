@@ -1,2 +1,7 @@
-- Latest Hyperos 3 blobs and firmware based (OS3.0.3.0.WNPEUXM).
-- Kernel: Updated to Glacium-2.6
+- Hotfix Build ,Hyperos 3 blobs and firmware based (OS3.0.3.0.WNPEUXM).
+- Fixed camera issues and occasional crashes
+- Fixed some apps not able to access location & GPS services
+- Fixed VoIP and VoNR calling for some carriers
+- Fixed no-incallsound in some cases
+- Dolby profile reset issue fixed
+- Fixed display occasopnal crashes
