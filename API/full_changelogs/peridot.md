@@ -1,3 +1,16 @@
+# 01-Feb-2026
+
+- Latest source changes
+- Kernel: Updated to 6.1.159-GlaciumKernel-2.7
+- Updated Graphics blobs to v819
+- Fixed GPU freq stuck at lower speed
+- Added missing secure element permission
+- Updated powerhint to work msm performance
+- Fixed no sound occasionally with TWS
+- Updated powertools
+- Tuned devfreq for balanced profile
+- Fixed Custom recovery decryption issue
+
 # 25-Jan-2026
 
 - Hotfix Build ,Hyperos 3 blobs and firmware based (OS3.0.3.0.WNPEUXM).
