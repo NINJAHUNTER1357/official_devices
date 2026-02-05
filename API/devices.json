@@ -77,6 +77,15 @@
             "donate_link": "https://t.me/MayursBuildsUpdates/199",
             "frame": null,
             "active": true
-        }
+        },
+	{
+            "codename": "whyred",
+            "codename_alt": "whyred",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 5 Pro",
+            "maintainer_name": "ArijitSaha",
+            "frame": null,
+            "active": true
+        },
     ]
 }

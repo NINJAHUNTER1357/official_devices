@@ -9,6 +9,7 @@ Here is the list of all the devices actively supprorted officially by AscpOS.
 5. Redmi Turbo 4 Pro / POCO F7 (onyx)
 6. Poco X5 Pro (redwood)
 7. Xiaomi Pad 6(pipa)
+8. Redmi Note 5 Pro (whyred)
 
 **Other**
 1. Nothing CMF Phone 1 (tetris)
