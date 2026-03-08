@@ -1,10 +1,19 @@
 - Latest source changes
-- Kernel: Updated to 6.1.159-GlaciumKernel-2.7
-- Updated Graphics blobs to v819
-- Fixed GPU freq stuck at lower speed
-- Added missing secure element permission
-- Updated powerhint to work msm performance
-- Fixed no sound occasionally with TWS
-- Updated powertools
-- Tuned devfreq for balanced profile
-- Fixed Custom recovery decryption issue
+- Kernel: Updated GlaciumKernel v3.5
+- Update blobs from HyperOS OS3.0.5.0.WNPMIXM
+- Update props from HyperOS OS3.0.5.0.WNPMIXM
+- Fixed no Incoming call sound occasionally while using TWS
+- Improve CPU and GPU hints improved UI performance
+- Removed Kprofiles
+- Fixed per app kprofile no apply properly based on foreground apps
+- Implement dexopt optimisation
+- Restrict charging throttling at high battery temps
+- Modified thermal files to better manage device thermals while charging
+- Disable client composition cache for better performance
+- Restrict background activity for system apps to save battery in balance profile
+- Updated PowerTools with new features , Zenmode and per app custom profiles
+- Added Game turbo support perf+ zen mode (may heat up device more than usual-cooling recommended)
+- Added Enforce dose for zen profiles (disabled by default)
+- Added Auto zen mode (disabled by default-may decrease scrren off charging)
+- New GameBar With FPS recording and performance monitoring
+- Miscellaneous bug fixes and optimizations
