@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1768897175,
-      "filename": "ASCP-v5.0-marble-OFFICIAL-20260120-0820.zip",
-      "id": "e5e339121f4b67a77244108cfc828cac884081af43f295ba5bd94ef1f7df89b8",
-      "md5": "f501988438dacb7bfb52c36da7dcb333",
-      "size": 2596435921,
-      "url": "https://sourceforge.net/projects/project-ascp/files/marble/ASCP-v5.0-marble-OFFICIAL-20260120-0820.zip",
-      "version": "5.0"
+      "datetime": 1772981616,
+      "filename": "ASCP-v5.2-marble-OFFICIAL-20260308-1453.zip",
+      "id": "9b6ce858b8a2ef60551544d48ab9dc82e2f5fefb0c72ffc32b0d554e3b189f20",
+      "md5": "2c3a68d229d0dfa7db7503aa2022c932",
+      "size": 3297668204,
+      "url": "https://sourceforge.net/projects/project-ascp/files/marble/ASCP-v5.2-marble-OFFICIAL-20260308-1453.zip",
+      "version": "5.2"
     }
   ]
 }

@@ -1,6 +1,17 @@
-- Initial 16-QPR2
-- Switched to qti perf hal
-- Switched to prebuilt audio hal for better sound quality
-- Improved overall smoothness
-- Fixed dolby issues (switch to old dolby ui)
-- Misc improvements
+- Latest source changes.
+- Fixed bluetooth calling bug.
+- Added back per app thermal profile.
+- Updated blobs and firmware from OS2.0.218.0.VMRMIXM.
+- Improved dolby for more better sound quality.
+- Disable vendor.audio.feature.kpi_optimize.enable prop.
+- powerhint: limit idle blocking and scheduler overrides to active phases.
+- powerhint: increase LAUNCH BW duration.
+- powerhint: Added GPU boost during INTERACTION.
+- powerhint: Improved cpu freq in SUSTAINED_PERFORMANCE action.
+- powerhint: Added big cluster boost during INTERACTION.
+- powerhint: Improved GPU max freq during EXPENSIVE_RENDERING.
+- powerhint: Added GPU boost during LAUNCH.
+- powerhint: Added FIXED_PERFORMANCE freq boost.
+- powerhint: allowed max cpu boost during LAUNCH.
+- powerhint: Add GPU limit in Flipendo battery saver.
+- powerhint: added gpu idle limit in EXPENSIVE_RENDERING.
