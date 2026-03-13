@@ -13,3 +13,4 @@ Here is the list of all the devices actively supprorted officially by AscpOS.
 
 **Other**
 1. Nothing CMF Phone 1 (tetris)
+2. Nothing Phone 1 (Spacewar)
