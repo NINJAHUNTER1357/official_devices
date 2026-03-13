@@ -87,5 +87,14 @@
             "frame": null,
             "active": true
         },
+        {
+            "codename": "Spacewar",
+            "codename_alt": "Spacewar",
+            "vendor": "Nothing",
+            "model": "Nothing Phone 1",
+            "maintainer_name": "mysellysenpai",
+            "frame": null,
+            "active": true
+        },
     ]
 }
