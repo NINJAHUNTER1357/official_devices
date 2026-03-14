@@ -1,0 +1,4 @@
+- Switch to Oxygen+ kernel
+- Use lunaris Dolby Atmos
+- Rebase HBM and AutoHBM
+- Rebase whole tree's
