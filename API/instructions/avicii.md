@@ -1,0 +1,23 @@
+# Device: OnePlus Nord (avicii)
+- Recommended Recovery: https://pitchblackrecovery.com/avicii
+
+## Clean Flash:
+1. Boot to recovery
+
+2. Flash the ROM.zip file from internal storage or USB OTG or via ADB sideload
+
+3. Format data
+
+4. Reboot
+
+
+## Dirty Flash:
+1. Reboot to recovery
+
+2. Flash the ROM.zip file from internal storage or USB OTG or via ADB sideload
+
+3. Reboot
+
+
+## OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
