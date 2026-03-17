@@ -1,0 +1,8 @@
+# 17.03.2026
+
+- Initial release
+- default kernel stormbreaker
+- leica camera included
+- added lunaris dolby support
+- added torch light strength control support
+- Workaround Qualcomm RIL disabling of cellular 464XLAT on IPv6-only carrier networks
