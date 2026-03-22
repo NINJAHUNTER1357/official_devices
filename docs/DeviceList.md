@@ -17,3 +17,4 @@ Here is the list of all the devices actively supprorted officially by AscpOS.
 1. Nothing CMF Phone 1 (tetris)
 2. Nothing Phone 1 (Spacewar)
 3. OnePlus Nord (avicii)
+4. OnePlus 13R / Ace 5 (giulia/giuliac)

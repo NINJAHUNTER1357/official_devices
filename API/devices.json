@@ -123,5 +123,23 @@
            "frame": null,
            "active": true
         },
+        {
+           "codename": "giulia",
+           "codename_alt": "giulia",
+           "vendor": "OnePlus",
+           "model": "OnePlus 13R",
+           "maintainer_name": "0mar",
+           "frame": null,
+           "active": true
+        },
+        {
+           "codename": "giuliac",
+           "codename_alt": "giuliac",
+           "vendor": "OnePlus",
+           "model": "OnePlus Ace 5",
+           "maintainer_name": "0mar",
+           "frame": null,
+           "active": true
+        },
     ]
 }
