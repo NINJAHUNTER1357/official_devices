@@ -12,6 +12,7 @@ Here is the list of all the devices actively supprorted officially by AscpOS.
 8. Redmi Note 5 Pro (whyred)
 9. Redmi Note 13 Pro 5G / POCO X6 5G (garnet)
 10. Redmi K20 Pro (raphael)
+11. Xiaomi 11x Pro (haydn/haydnin)
 
 **Other**
 1. Nothing CMF Phone 1 (tetris)
