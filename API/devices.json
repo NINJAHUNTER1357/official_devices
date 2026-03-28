@@ -141,5 +141,14 @@
            "frame": null,
            "active": true
         },
+        {
+           "codename": "haydn",
+           "codename_alt": "haydnin",
+           "vendor": "Xiaomi",
+           "model": "Mi 11x Pro",
+           "maintainer_name": "Lucifer",
+           "frame": null,
+           "active": true
+        },
     ]
 }
