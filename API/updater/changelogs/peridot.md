@@ -1,19 +1,27 @@
-- Latest source changes
-- Kernel: Updated GlaciumKernel v3.5
-- Update blobs from HyperOS OS3.0.5.0.WNPMIXM
-- Update props from HyperOS OS3.0.5.0.WNPMIXM
-- Fixed no Incoming call sound occasionally while using TWS
-- Improve CPU and GPU hints improved UI performance
-- Removed Kprofiles
-- Fixed per app kprofile no apply properly based on foreground apps
-- Implement dexopt optimisation
-- Restrict charging throttling at high battery temps
-- Modified thermal files to better manage device thermals while charging
-- Disable client composition cache for better performance
-- Restrict background activity for system apps to save battery in balance profile
-- Updated PowerTools with new features , Zenmode and per app custom profiles
-- Added Game turbo support perf+ zen mode (may heat up device more than usual-cooling recommended)
-- Added Enforce dose for zen profiles (disabled by default)
-- Added Auto zen mode (disabled by default-may decrease scrren off charging)
-- New GameBar With FPS recording and performance monitoring
-- Miscellaneous bug fixes and optimizations
+- Merged latest upstream source changes up to version 5.4.
+- Updated proprietary blobs from HyperOS OS3.0.6.0.WNPMIXM.
+- Updated kernel version to 6.1.166-GlaciumKernel-4.1.
+- Enabled native Droidspace container support in the kernel.
+- Implemented High Brightness Mode (HBM) and resolved an issue where HBM would fail to activate after the device woke from a low-power (LP) state.
+- Integrated a Non-UI Notifier daemon.
+- Refined Zen Mode profiles: balanced performance scaling in Balanced Mode to prioritize system stability and thermal safety.
+- Enhanced touch/interaction responsiveness hints and increased performance boost when entering Performance Zen Mode.
+- Resolved VoLTE and VoNR carrier-specific registration issues that previously caused network delays.
+- Fixed occasional Bluetooth daemon crashes.
+- Updated Gamebar overlay to the latest version.
+- Updated patched display blobs to fix visual compatibility issues.
+- Mitigated random UI micro-stutters during high-temperature scenarios.
+- Fixed multi-channel audio routing issues during phone calls and media playback.
+- Resolved a rare bug where auto-brightness could become unresponsive in specific lighting conditions.
+- Fixed USB tethering connection drop issues on certain carrier devices.
+- Refined performance scaling behavior under Performance and Performance+ modes for steadier power delivery.
+- Optimized the per-app thermal profile backend logic.
+- Updated WALT governor tuning parameters for smoother CPU scaling.
+- Improved scheduler latency and task placement efficiency under heavy CPU workloads.
+- Optimized GPU frequency scaling algorithms for sustained framerates in gaming scenarios.
+- Reduced unnecessary system wakeups to minimize standby battery drain.
+- Enhanced UFS storage read/write performance and optimized I/O scheduling.
+- Adjusted thermal throttling thresholds to ensure a more progressive performance degradation curve.
+- Improved foreground task prioritization within the CPU scheduler.
+- Optimized battery charging thermal controls to prevent device overheating during fast charging and ensure proper thermal throttling.
+- Miscellaneous kernel-side optimizations, driver updates, and code cleanups.
