@@ -1,6 +1,12 @@
+# 01-06-2026
 - Latest source changes
-- initial ASCP V5.2 release
+- ASCP V5.4 release
 - update blobs from OS2.0.17.0.UMSMIXM
-- switched to sony dolby(audio improv...)
+- switched to Xiaomi Dolby Atmos with Lunaris Dolby UI
 - miui camera included
-- with lineage kernel
+- tune powerhint for battery
+- Enable frame pacing for smoother visual performance
+- with Araxys kernel
+
+
+
