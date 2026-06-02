@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": "1773338038",
-            "filename": "ASCP-v5.2-onyx-OFFICIAL-20260312-1755.zip",
-            "id": "ccfd9727fb95086403bac78c62aa161afeb792d556f22aa9e59f07dde5db6095",
-            "md5": "3f3a3be1911424d2245438e756642c34",
-            "size": 4740001046,
-            "url": "https://sourceforge.net/projects/project-ascp/files/onyx/ASCP-v5.2-onyx-OFFICIAL-20260312-1755.zip",
-            "version": "5.2"
+            "datetime": "1780406244",
+            "filename": "ASCP-v5.4-onyx-OFFICIAL-20260602-1318.zip",
+            "id": "c1d65ab477165cabecd21050f84133cb2cb4ad6f7cf9eb4696bf340a2b4ddaac",
+            "md5": "840a0dcf98d47caacbdc14665f783b5f",
+            "size": 4547361807,
+            "url": "https://sourceforge.net/projects/project-ascp/files/onyx/ASCP-v5.4-onyx-OFFICIAL-20260602-1318.zip",
+            "version": "5.4"
         }
     ]
 }
