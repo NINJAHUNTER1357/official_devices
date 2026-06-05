@@ -150,5 +150,14 @@
            "frame": null,
            "active": true
         },
+        {
+           "codename": "miatoll",
+           "codename_alt": "miatoll",
+           "vendor": "Xiaomi",
+           "model": "Redmi Note 9S/Pro/Pro Max & POCO M2 Pro",
+           "maintainer_name": "Drxkaii",
+           "frame": null,
+           "active": true
+        },
     ]
 }
