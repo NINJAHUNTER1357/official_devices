@@ -1,1 +1,3 @@
-- Initial release
+- Switch to armv8-2a-dotprod variant
+- Optimize native executables for Cortex-A76 CPU
+- Increment audio input/output values by 8

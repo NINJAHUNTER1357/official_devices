@@ -110,7 +110,7 @@
            "codename_alt": "avicii",
            "vendor": "OnePlus",
            "model": "OnePlus Nord",
-           "maintainer_name": "Sreeshankar K",
+           "maintainer_name": "Kaveer",
            "frame": null,
            "active": true
         },
@@ -158,6 +158,6 @@
            "maintainer_name": "Drxkaii",
            "frame": null,
            "active": true
-        },
+        }
     ]
 }
