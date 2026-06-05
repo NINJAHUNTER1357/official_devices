@@ -1,17 +1,9 @@
 - Latest source changes.
-- Fixed bluetooth calling bug.
-- Added back per app thermal profile.
-- Updated blobs and firmware from OS2.0.218.0.VMRMIXM.
-- Improved dolby for more better sound quality.
-- Disable vendor.audio.feature.kpi_optimize.enable prop.
-- powerhint: limit idle blocking and scheduler overrides to active phases.
-- powerhint: increase LAUNCH BW duration.
-- powerhint: Added GPU boost during INTERACTION.
-- powerhint: Improved cpu freq in SUSTAINED_PERFORMANCE action.
-- powerhint: Added big cluster boost during INTERACTION.
-- powerhint: Improved GPU max freq during EXPENSIVE_RENDERING.
-- powerhint: Added GPU boost during LAUNCH.
-- powerhint: Added FIXED_PERFORMANCE freq boost.
-- powerhint: allowed max cpu boost during LAUNCH.
-- powerhint: Add GPU limit in Flipendo battery saver.
-- powerhint: added gpu idle limit in EXPENSIVE_RENDERING.
+- sm8450-common: Update blobs from diting OS3.0.1.0.VLFMIXM.
+- marble: Update blobs and firmware from OS3.0.3.0.VMRMIXM.
+- Fixed BHIM upi qr scanner goes blank while scanning.
+- sm8450-common: sepolicy: allow power HAL access to cpu_dma_latency.
+- Import task_profiles.json from AOSPA (CLO).
+- Optimise Powerhint for better perf and stability.
+- Updated Cpuset cores.
+- sm8450-common: reduce uclamp.min value to 125.

@@ -1,3 +1,13 @@
+#05-June-2026
+- sm8450-common: Update blobs from diting OS3.0.1.0.VLFMIXM.
+- marble: Update blobs and firmware from OS3.0.3.0.VMRMIXM.
+- Fixed BHIM upi qr scanner goes blank while scanning.
+- sm8450-common: sepolicy: allow power HAL access to cpu_dma_latency.
+- Import task_profiles.json from AOSPA (CLO).
+- Optimise Powerhint for better perf and stability.
+- Updated Cpuset cores.
+- sm8450-common: reduce uclamp.min value to 125.
+
 # 20-Jan-2026
 - Switched to qti perf hal
 - Switched to prebuilt audio hal for better sound quality
