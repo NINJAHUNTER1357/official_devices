@@ -19,3 +19,4 @@ Here is the list of all the devices actively supprorted officially by AscpOS.
 2. Nothing Phone 1 (Spacewar)
 3. OnePlus Nord (avicii)
 4. OnePlus 13R / Ace 5 (giulia/giuliac)
+5. realme GT Neo 3 (lisaa)

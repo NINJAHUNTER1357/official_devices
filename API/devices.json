@@ -158,6 +158,15 @@
            "maintainer_name": "Drxkaii",
            "frame": null,
            "active": true
+        },
+        {
+           "codename": "lisaa",
+           "codename_alt": "lisaa",
+           "vendor": "Realme",
+           "model": "Realme GT Neo 3",
+           "maintainer_name": "Thundergod",
+           "frame": null,
+           "active": true
         }
     ]
 }
