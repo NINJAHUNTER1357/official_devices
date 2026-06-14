@@ -1,3 +1,11 @@
+# 14.06.2025
+
+- Synced Latest Source Changes
+- audio: fixup audio io policy voip_rx flags
+- Correct ACDB ID for headset mic
+- audio: Increase mic sensitivity
+- Switch to prebuilt audio HAL
+
 # 05.06.2026
 
 - Synced Latest Source Changes
