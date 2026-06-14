@@ -1,27 +1,37 @@
-- Merged latest upstream source changes up to version 5.4.
-- Updated proprietary blobs from HyperOS OS3.0.6.0.WNPMIXM.
-- Updated kernel version to 6.1.166-GlaciumKernel-4.1.
-- Enabled native Droidspace container support in the kernel.
-- Implemented High Brightness Mode (HBM) and resolved an issue where HBM would fail to activate after the device woke from a low-power (LP) state.
-- Integrated a Non-UI Notifier daemon.
-- Refined Zen Mode profiles: balanced performance scaling in Balanced Mode to prioritize system stability and thermal safety.
-- Enhanced touch/interaction responsiveness hints and increased performance boost when entering Performance Zen Mode.
-- Resolved VoLTE and VoNR carrier-specific registration issues that previously caused network delays.
-- Fixed occasional Bluetooth daemon crashes.
-- Updated Gamebar overlay to the latest version.
-- Updated patched display blobs to fix visual compatibility issues.
-- Mitigated random UI micro-stutters during high-temperature scenarios.
-- Fixed multi-channel audio routing issues during phone calls and media playback.
-- Resolved a rare bug where auto-brightness could become unresponsive in specific lighting conditions.
-- Fixed USB tethering connection drop issues on certain carrier devices.
-- Refined performance scaling behavior under Performance and Performance+ modes for steadier power delivery.
-- Optimized the per-app thermal profile backend logic.
-- Updated WALT governor tuning parameters for smoother CPU scaling.
-- Improved scheduler latency and task placement efficiency under heavy CPU workloads.
-- Optimized GPU frequency scaling algorithms for sustained framerates in gaming scenarios.
-- Reduced unnecessary system wakeups to minimize standby battery drain.
-- Enhanced UFS storage read/write performance and optimized I/O scheduling.
-- Adjusted thermal throttling thresholds to ensure a more progressive performance degradation curve.
-- Improved foreground task prioritization within the CPU scheduler.
-- Optimized battery charging thermal controls to prevent device overheating during fast charging and ensure proper thermal throttling.
-- Miscellaneous kernel-side optimizations, driver updates, and code cleanups.
+- Latest Source changes to ASCP 5.5
+- Updated Security Patch Level to June SPL
+- Updated kernel version to 6.1.170-GlaciumKernel-4.2
+- Integrated native Droidspace container support into the kernel
+- Merged CLO tag 'LA.VENDOR.14.3.0.r1-23100-lanai.QSSI16.0' into platform/vendor/opensource/dataipa
+- Merged CLO tag 'DISPLAY.LA.4.0.r2-10100-lanai.0' into platform/hardware/qcom/display
+- Merged CLO tag 'LA.VENDOR.14.3.0.r1-23100-lanai.QSSI16.0' into platform/vendor/qcom-opensource/data-ipa-cfg-mgr
+- Updated MiuiCamerato latest 6.4 version
+- Kernel level pocket mode with Nonui sensor
+- Implemented High Brightness Mode (HBM) and fixed an issue preventing HBM activation after waking from a low-power (LP) state
+- Resolved occasional Bluetooth daemon crashes
+- Updated and patched display blobs to address visual compatibility issues
+- Reduced UI micro-stutters during high thermal scenarios
+- Fixed multi-channel audio routing issues during calls and media playback
+- Resolved a rare issue where auto-brightness could become unresponsive
+- Fixed USB tethering connection dropping or becoming unresponsive on affected devices
+- Refined Performance and Performance+ mode scaling behavior for better efficiency
+- Updated WALT governor tuning parameters for smoother CPU scaling
+- Improved scheduler latency and responsiveness under heavy CPU load
+- Optimized GPU frequency scaling for sustained gaming performance
+- Reduced unnecessary system wakeups to improve standby battery life
+- Optimized UFS storage access and I/O scheduling performance
+- Refined thermal throttling thresholds for progressive performance scaling
+- Improved foreground task prioritization in the CPU scheduler
+- Optimized battery charging thermal controls to prevent overheating and ensure proper throttling during fast charging
+- Adjusted virtual memory (VM) and allocation parameters
+- Backported CFS scheduler optimizations to reduce jitter and UI stutters under heavy load
+- Upstream F2FS and EXT4 improvements
+- Refined kernel memory management page reclaim
+- Optimized CPU scheduling and task placement for improved UI responsiveness
+- Reduced overall system memory usage under heavy multitasking cases
+- Fixed minor frame drops during quick settings panel expansion and app transitions
+- Optimized writeback performance and reduced storage I/O latency
+- Fixed minor power consumption leaks during idle standby
+- Updated gamebar and powertools to latest version
+- Updated BCR to latest v3.1
+- Miscellaneous cleanups and improvements
