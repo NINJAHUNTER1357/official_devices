@@ -1,3 +1,14 @@
+# 016-06-2026
+
+- Latest source changes
+- ASCP V5.5 release
+- Introduced init.lahaina.perf.rc for performance tuning
+- Disabled EGL image tracking
+- Disabled WLAN firmware loggings
+- switched to NON ROOT scarlet
+
+
+
 # 01-06-2026
 
 - Latest source changes
