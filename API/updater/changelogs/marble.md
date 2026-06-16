@@ -1,9 +1,9 @@
 - Latest source changes.
-- sm8450-common: Update blobs from diting OS3.0.1.0.VLFMIXM.
-- marble: Update blobs and firmware from OS3.0.3.0.VMRMIXM.
-- Fixed BHIM upi qr scanner goes blank while scanning.
-- sm8450-common: sepolicy: allow power HAL access to cpu_dma_latency.
-- Import task_profiles.json from AOSPA (CLO).
-- Optimise Powerhint for better perf and stability.
-- Updated Cpuset cores.
-- sm8450-common: reduce uclamp.min value to 125.
+- Reworked on thermal profiles.
+- Powerhint: major cleanup for better perf and battery backup.
+- Improved task_profiles for better efficiency.
+- Added back the dolby vision support. (thanks to pablo for fixing issue)
+- Introduced double tap on fingerprint sensor gesture.
+- upstreamed kernel to v5.10.258.
+- Overall improvement in perf and stability.
+- sm8450-common: Updated blobs from diting OS3.0.4.0.VLFMIXM.

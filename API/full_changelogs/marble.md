@@ -1,3 +1,13 @@
+#16-06-2026
+- Reworked on thermal profiles.
+- Powerhint: major cleanup for better perf and battery backup.
+- Improved task_profiles for better efficiency.
+- Added back the dolby vision support. (thanks to pablo for fixing issue)
+- Introduced double tap on fingerprint sensor gesture.
+- upstreamed kernel to v5.10.258.
+- Overall improvement in perf and stability.
+- sm8450-common: Updated blobs from diting OS3.0.4.0.VLFMIXM.
+
 #05-June-2026
 - sm8450-common: Update blobs from diting OS3.0.1.0.VLFMIXM.
 - marble: Update blobs and firmware from OS3.0.3.0.VMRMIXM.
