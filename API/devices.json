@@ -159,6 +159,17 @@
            "frame": null,
            "active": true
         },
+		 {
+           "codename": "larry",
+            "codename_alt": "larry",
+            "vendor": "OnePlus",
+            "model": "OnePlus Nord CE 3 Lite / Nord N30 5G",
+            "maintainer_name": "Viaan",
+            "github_username": "viaan-thakur",
+			"image_url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-3-lite-.jpg",
+            "frame": null,
+            "active": true
+        },
         {
            "codename": "lisaa",
            "codename_alt": "lisaa",
