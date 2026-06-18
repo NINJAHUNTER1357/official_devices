@@ -190,7 +190,7 @@ def message_content(information):
     msg += f"-> ASCP Version: <code>{information['version']}</code>\n"
     msg += f"-> Changelog: <a href='https://raw.githubusercontent.com/Project-ASCP/official_devices/{branch}/API/updater/changelogs/{information['''codename''']}.md'>Here</a>\n"
 
-    msg += f"\n#ASCP #Stable #{information['codename']} #Android15 #Official"
+    msg += f"\n#ASCP #Stable #{information['codename']} #Android16 #Official"
     return msg
 
 # Send updates to channel and commit changes in repo
