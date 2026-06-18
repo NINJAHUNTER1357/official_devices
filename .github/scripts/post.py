@@ -47,7 +47,7 @@ def getASCPVersion():
         print(f"Error fetching version: {e}")
         return "5.4"
 
-ASCP_VERSION_CHECK = getASCPVersion()
+ASCP_VERSION_CHECK = max(device["version"] for device in get_devices())
 
 # Init bot
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
