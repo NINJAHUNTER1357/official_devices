@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.github/scripts/__pycache__/
+commit_mesg.txt
+assets/*_banner.png

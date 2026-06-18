@@ -51,7 +51,7 @@ jobs:
           if [ -f commit_mesg.txt ]; then
             COMMIT_MESSAGE=$(cat commit_mesg.txt)
             rm commit_mesg.txt
-            git add .
+            git add .github/scripts/file_ids.txt
             git commit -sm "$COMMIT_MESSAGE" || true
             git push origin ${{ github.ref_name }}
           else

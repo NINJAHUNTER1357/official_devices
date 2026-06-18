@@ -4,8 +4,6 @@
 # Intended to be run on every push
 # USAGE : python3 post.py
 #
-# Rebranded for ASCP
-
 import re
 import telebot
 import os
