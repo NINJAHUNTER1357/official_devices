@@ -1,5 +1,5 @@
 # Device List
-Here is the list of all the devices actively supprorted officially by AscpOS.
+Here is the list of all the devices actively supprorted officially by Pixelify-AOSP.
 
 **Xiaomi**
 1. Poco F3/Mi 11X/Redmi K40 (alioth/aliothin)
@@ -14,9 +14,13 @@ Here is the list of all the devices actively supprorted officially by AscpOS.
 10. Redmi K20 Pro (raphael)
 11. Xiaomi 11x Pro (haydn/haydnin)
 
-**Other**
+**Nothing**
 1. Nothing CMF Phone 1 (Tetris)
 2. Nothing Phone 1 (Spacewar)
-3. OnePlus Nord (avicii)
-4. OnePlus 13R / Ace 5 (giulia/giuliac)
-5. realme GT Neo 3 (lisaa)
+
+**Oneplus**
+1. OnePlus Nord (avicii)
+2. OnePlus 13R / Ace 5 (giulia/giuliac)
+
+**Realme**
+1. realme GT Neo 3 (lisaa)
