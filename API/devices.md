@@ -24,7 +24,7 @@
 ```
 
 * Nothing Phone 1 (spacewar)
-* CMF Phone 1 (tetris)
+* CMF Phone 1 (Tetris)
 
 ```
 
