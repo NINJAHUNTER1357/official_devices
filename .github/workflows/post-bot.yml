@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
 
 env:
-  GitHubMail: "ascpbot@gmail.com"
-  GitHubName: "ASCPBot"
+  GitHubMail: "ascpbot128@gmail.com"
+  GitHubName: "TheASCPBot"
   GitHubToken: ${{ secrets.GH_TOKEN }}
   BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
   CHAT_ID: ${{ secrets.CHAT_ID }}
