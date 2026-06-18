@@ -15,6 +15,13 @@
             "XDA": "https://xdaforums.com/paste_here/",
             "role": "ASCP Co-founder; Peridot Maintainer",
             "tagline": "Need Anything!"
-        }
+        },
+        {   "name": "Anshuman X"
+            "github": "maxxcodebug"
+            "telegram": "AnshumanAhirwar"
+            "XDA": "https://www.xda-developers.com/profile/VD174775/"
+            "role": "Tetris Maintainer"
+            "tagline": "Always ahead"
+        }   
     ]
 }
