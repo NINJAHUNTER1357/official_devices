@@ -16,12 +16,19 @@
             "role": "ASCP Co-founder; Peridot Maintainer",
             "tagline": "Need Anything!"
         },
-        {   "name": "Anshuman X"
-            "github": "maxxcodebug"
-            "telegram": "AnshumanAhirwar"
-            "XDA": "https://www.xda-developers.com/profile/VD174775/"
-            "role": "Tetris Maintainer"
+        {   "name": "Anshuman X",
+            "github": "maxxcodebug",
+            "telegram": "AnshumanAhirwar",
+            "XDA": "https://www.xda-developers.com/profile/VD174775/",
+            "role": "Tetris Maintainer",
             "tagline": "Always ahead"
+        },
+        {   "name": "Kaveer",
+            "github": "Kaveer2009",
+            "telegram": "KaveerRana",
+            "XDA": "https://xdaforums.com/m/kaveer-rana.13029173/",
+            "role": "Avicii Maintainer",
+            "tagline": "Code. Build. Repeat."
         }   
     ]
 }
