@@ -186,7 +186,7 @@ def message_content(information):
     msg += f"<u>Screenshots</u>: <a href='https://t.me/ascpos_marble/804?single'>Here</a>\n\n"
     msg += f"-> Maintainer: <b>{information['maintainer']}</b>\n"
     msg += f"-> ASCP Version: <code>{information['version']}</code>\n"
-    msg += f"-> Changelog: <a href='https://raw.githubusercontent.com/Project-ASCP/official_devices/refs/heads/{branch}/API/updater/changelogs/{information['''codename''']}.md'>Here</a>\n"
+    msg += f"-> Changelog: <a href='https://raw.githubusercontent.com/Pixelify-AOSP/official_devices/refs/heads/{branch}/API/updater/changelogs/{information['''codename''']}.md'>Here</a>\n"
 
     msg += f"\n#ASCP #Stable #{information['codename']} #Android16 #Official"
     return msg
