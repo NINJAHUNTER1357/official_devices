@@ -19,12 +19,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Install Dependencies
         run: |
-          sudo apt remove python3-yaml
-          sudo pip install pyTelegramBotAPI noobstuffs PyGithub pillow
+          python3 -m venv venv
+          source venv/bin/activate
+          pip install --upgrade pip
+          pip install pyTelegramBotAPI noobstuffs PyGithub pillow
 
       - name: Set Git Configs & Secrets
         run: |
@@ -37,15 +41,18 @@ jobs:
       - name: Run ASCPPosterBot
         env:
           BRANCH_NAME: ${{ github.ref_name }}
-        run: sudo -E python3 .github/scripts/post.py
+        run: |
+          source venv/bin/activate
+          python3 .github/scripts/post.py
 
       - name: Commit and Push Changes
-        run: | 
+        run: |
           git fetch && git pull
           if [ -f commit_mesg.txt ]; then
             COMMIT_MESSAGE=$(cat commit_mesg.txt)
             rm commit_mesg.txt
-            git add . && git commit -sm "$COMMIT_MESSAGE"
+            git add .
+            git commit -sm "$COMMIT_MESSAGE" || true
             git push origin ${{ github.ref_name }}
           else
             echo "Nothing to commit"
