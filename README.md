@@ -13,7 +13,7 @@ You also need to use this to apply for official maintainership for your device.
 
 You must fulfill the following requirements before applying:
 
-- [List of official devices](docs/devices.md)
+- [List of official devices](docs/DeviceList.md)
 
 - [Device stability requirements](docs/device_requirements.md)
 
