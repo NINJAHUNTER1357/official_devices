@@ -1,3 +1,6 @@
+# 18-06-2026
+- Source upstream
+
 # 05-06-2026
 - Switch to armv8-2a-dotprod variant
 - Optimize native executables for Cortex-A76 CPU
