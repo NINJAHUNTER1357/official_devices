@@ -1,0 +1,46 @@
+name: Auto Format JSON
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  GitHubMail: "ascpbot128@gmail.com"
+  GitHubName: "TheASCPBot"
+  GitHubToken: ${{ secrets.GH_TOKEN }}
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run format script
+        run: python scripts/format_json.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email ${GitHubMail}
+          git config --global user.name ${GitHubName}
+          git config --global color.ui true
+          git config --global credential.helper store
+          echo "https://${GitHubName}:${GitHubToken}@github.com" > ~/.git-credentials
+          git add API/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "official_devices: Reformat JSON files [skip ci]"
+            git push origin ${{ github.ref_name }}
+          fi
