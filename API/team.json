@@ -1,34 +1,36 @@
 {
     "team": [
         {
-            "name": "Ashwani",
-            "github": "beingashwani",
-            "telegram": "being_ashwani",
             "XDA": "https://xdaforums.com/paste_here/",
+            "github": "beingashwani",
+            "name": "Ashwani",
             "role": "ASCP Co-founder; Marble Maintainer",
-            "tagline": "No excuses!"
+            "tagline": "No excuses!",
+            "telegram": "being_ashwani"
         },
         {
-            "name": "Kenway",
-            "github": "kenway214",
-            "telegram": "ph12nex",
             "XDA": "https://xdaforums.com/paste_here/",
+            "github": "kenway214",
+            "name": "Kenway",
             "role": "ASCP Co-founder; Peridot Maintainer",
-            "tagline": "Need Anything!"
+            "tagline": "Need Anything!",
+            "telegram": "ph12nex"
         },
-        {   "name": "Anshuman X",
-            "github": "maxxcodebug",
-            "telegram": "AnshumanAhirwar",
+        {
             "XDA": "https://www.xda-developers.com/profile/VD174775/",
+            "github": "maxxcodebug",
+            "name": "Anshuman X",
             "role": "Tetris Maintainer",
-            "tagline": "Always ahead"
+            "tagline": "Always ahead",
+            "telegram": "AnshumanAhirwar"
         },
-        {   "name": "Kaveer",
-            "github": "Kaveer2009",
-            "telegram": "KaveerRana",
+        {
             "XDA": "https://xdaforums.com/m/kaveer-rana.13029173/",
+            "github": "Kaveer2009",
+            "name": "Kaveer",
             "role": "Avicii Maintainer",
-            "tagline": "Code. Build. Repeat."
-        }   
+            "tagline": "Code. Build. Repeat.",
+            "telegram": "KaveerRana"
+        }
     ]
 }

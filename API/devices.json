@@ -1,210 +1,209 @@
 {
     "devices": [
         {
+            "active": true,
             "codename": "alioth",
             "codename_alt": "aliothin",
-            "vendor": "Xiaomi",
-            "model": "Poco F3/Mi 11X/Redmi K40",
-            "maintainer_name": "zenzer0s",
             "frame": null,
-            "active": true
+            "maintainer_name": "zenzer0s",
+            "model": "Poco F3/Mi 11X/Redmi K40",
+            "vendor": "Xiaomi"
         },
         {
+            "active": true,
             "codename": "marble",
             "codename_alt": "marble/marblein",
-            "vendor": "Xiaomi",
-            "model": "Poco F5/Redmi Note 12 Turbo",
-            "maintainer_name": "beingashwani",
             "frame": null,
-            "active": true
+            "maintainer_name": "beingashwani",
+            "model": "Poco F5/Redmi Note 12 Turbo",
+            "vendor": "Xiaomi"
         },
         {
+            "active": true,
             "codename": "peridot",
             "codename_alt": "peridot",
-            "vendor": "Xiaomi",
-            "model": "Redmi Turbo 3 / POCO F6",
-            "maintainer_name": "kenway214",
             "frame": null,
-            "active": true
+            "maintainer_name": "kenway214",
+            "model": "Redmi Turbo 3 / POCO F6",
+            "vendor": "Xiaomi"
         },
         {
+            "active": true,
             "codename": "onyx",
             "codename_alt": "onyx",
-            "vendor": "Xiaomi",
-            "model": "Redmi Turbo 4 Pro / POCO F7",
-            "maintainer_name": "SharmagRit",
             "frame": null,
-            "active": true
+            "maintainer_name": "SharmagRit",
+            "model": "Redmi Turbo 4 Pro / POCO F7",
+            "vendor": "Xiaomi"
         },
         {
+            "active": true,
             "codename": "Tetris",
             "codename_alt": "Tetris",
-            "vendor": "Nothing",
-            "model": "Nothing CMF Phone 1",
-            "maintainer_name": "Anshuman X",
-			"telegram_username": "AnshumanAhirwar",
-			"image_url": "https://fdn2.gsmarena.com/vv/bigpic/nothing-cmf-phone-1-ofic.jpg",
             "frame": null,
-            "active": true
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/nothing-cmf-phone-1-ofic.jpg",
+            "maintainer_name": "Anshuman X",
+            "model": "Nothing CMF Phone 1",
+            "telegram_username": "AnshumanAhirwar",
+            "vendor": "Nothing"
         },
         {
+            "active": true,
             "codename": "pipa",
             "codename_alt": "pipa",
-            "vendor": "Xiaomi",
-            "model": "Xiaomi Pad 6",
-            "maintainer_name": "Amrutesh",
             "frame": null,
-            "active": true
+            "maintainer_name": "Amrutesh",
+            "model": "Xiaomi Pad 6",
+            "vendor": "Xiaomi"
         },
         {
+            "active": true,
             "codename": "munch",
             "codename_alt": "munchin",
-            "vendor": "Xiaomi",
-            "model": "Poco F4 / Redmi K40S",
-            "maintainer_name": "Kenskuyy",
-            "github_username": "kenaidi01",
-            "image_url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1655810010.28138527.png",
             "donate_link": "https://t.me/kenskuyyplayground/3004/3007",
             "frame": null,
-            "active": true
+            "github_username": "kenaidi01",
+            "image_url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1655810010.28138527.png",
+            "maintainer_name": "Kenskuyy",
+            "model": "Poco F4 / Redmi K40S",
+            "vendor": "Xiaomi"
         },
         {
+            "active": true,
             "codename": "redwood",
             "codename_alt": "redwood",
-            "vendor": "Xiaomi",
-            "model": "Poco X5 Pro",
-            "maintainer_name": "BlueHeart016",
-            "github_username": "BlueHeart01",
-            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-pro-5g.jpg",
             "donate_link": "https://t.me/bluehearts_Builds016/55/10653?single",
             "frame": null,
-            "active": true
+            "github_username": "BlueHeart01",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-pro-5g.jpg",
+            "maintainer_name": "BlueHeart016",
+            "model": "Poco X5 Pro",
+            "vendor": "Xiaomi"
         },
-	{
+        {
+            "active": true,
             "codename": "whyred",
             "codename_alt": "whyred",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 5 Pro",
-            "maintainer_name": "ArijitSaha",
             "frame": null,
-            "active": true
+            "maintainer_name": "ArijitSaha",
+            "model": "Redmi Note 5 Pro",
+            "vendor": "Xiaomi"
         },
         {
+            "active": true,
             "codename": "Spacewar",
             "codename_alt": "Spacewar",
-            "vendor": "Nothing",
-            "model": "Nothing Phone 1",
-            "maintainer_name": "mysellysenpai",
             "frame": null,
-            "active": true
+            "maintainer_name": "mysellysenpai",
+            "model": "Nothing Phone 1",
+            "vendor": "Nothing"
         },
         {
+            "active": true,
             "codename": "garnet",
             "codename_alt": "garnet",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 13 Pro 5G / POCO X6 5G",
+            "frame": null,
             "maintainer_name": "HEYDR",
+            "model": "Redmi Note 13 Pro 5G / POCO X6 5G",
+            "vendor": "Xiaomi"
+        },
+        {
+            "active": true,
+            "codename": "avicii",
+            "codename_alt": "avicii",
             "frame": null,
-            "active": true
+            "maintainer_name": "Kaveer",
+            "model": "OnePlus Nord",
+            "vendor": "OnePlus"
         },
         {
-           "codename": "avicii",
-           "codename_alt": "avicii",
-           "vendor": "OnePlus",
-           "model": "OnePlus Nord",
-           "maintainer_name": "Kaveer",
-           "frame": null,
-           "active": true
+            "active": true,
+            "codename": "raphael",
+            "codename_alt": "raphael",
+            "frame": null,
+            "maintainer_name": "bulla03x",
+            "model": "Redmi K20 Pro",
+            "vendor": "Xiaomi"
         },
         {
-           "codename": "raphael",
-           "codename_alt": "raphael",
-           "vendor": "Xiaomi",
-           "model": "Redmi K20 Pro",
-           "maintainer_name": "bulla03x",
-           "frame": null,
-           "active": true
+            "active": true,
+            "codename": "giulia",
+            "codename_alt": "giulia",
+            "frame": null,
+            "maintainer_name": "0mar",
+            "model": "OnePlus 13R",
+            "vendor": "OnePlus"
         },
         {
-           "codename": "giulia",
-           "codename_alt": "giulia",
-           "vendor": "OnePlus",
-           "model": "OnePlus 13R",
-           "maintainer_name": "0mar",
-           "frame": null,
-           "active": true
+            "active": true,
+            "codename": "giuliac",
+            "codename_alt": "giuliac",
+            "frame": null,
+            "maintainer_name": "0mar",
+            "model": "OnePlus Ace 5",
+            "vendor": "OnePlus"
         },
         {
-           "codename": "giuliac",
-           "codename_alt": "giuliac",
-           "vendor": "OnePlus",
-           "model": "OnePlus Ace 5",
-           "maintainer_name": "0mar",
-           "frame": null,
-           "active": true
+            "active": true,
+            "codename": "haydn",
+            "codename_alt": "haydnin",
+            "frame": null,
+            "maintainer_name": "Lucifer",
+            "model": "Mi 11x Pro",
+            "vendor": "Xiaomi"
         },
         {
-           "codename": "haydn",
-           "codename_alt": "haydnin",
-           "vendor": "Xiaomi",
-           "model": "Mi 11x Pro",
-           "maintainer_name": "Lucifer",
-           "frame": null,
-           "active": true
+            "active": true,
+            "codename": "miatoll",
+            "codename_alt": "miatoll",
+            "frame": null,
+            "maintainer_name": "Drxkaii",
+            "model": "Redmi Note 9S/Pro/Pro Max & POCO M2 Pro",
+            "vendor": "Xiaomi"
         },
         {
-           "codename": "miatoll",
-           "codename_alt": "miatoll",
-           "vendor": "Xiaomi",
-           "model": "Redmi Note 9S/Pro/Pro Max & POCO M2 Pro",
-           "maintainer_name": "Drxkaii",
-           "frame": null,
-           "active": true
-        },
-		 {
-           "codename": "larry",
+            "active": true,
+            "codename": "larry",
             "codename_alt": "larry",
-            "vendor": "OnePlus",
-            "model": "OnePlus Nord CE 3 Lite / Nord N30 5G",
-            "maintainer_name": "Viaan",
-			"telegram_username": "KAGE_EXE",
-            "github_username": "viaan-thakur",
-			"image_url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-3-lite-.jpg",
             "frame": null,
-            "active": true
+            "github_username": "viaan-thakur",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-3-lite-.jpg",
+            "maintainer_name": "Viaan",
+            "model": "OnePlus Nord CE 3 Lite / Nord N30 5G",
+            "telegram_username": "KAGE_EXE",
+            "vendor": "OnePlus"
         },
         {
-           "codename": "lisaa",
-           "codename_alt": "lisaa",
-           "vendor": "Realme",
-           "model": "Realme GT Neo 3",
-           "maintainer_name": "Thundergod",
-           "frame": null,
-           "active": true
+            "active": true,
+            "codename": "lisaa",
+            "codename_alt": "lisaa",
+            "frame": null,
+            "maintainer_name": "Thundergod",
+            "model": "Realme GT Neo 3",
+            "vendor": "Realme"
         },
         {
+            "active": true,
             "codename": "coral",
             "codename_alt": "coral",
-            "vendor": "Google",
-            "model": "Pixel 4 XL",
-            "maintainer_name": "Rum1ka",
-            "telegram_username": "prpjzz",
-            "github_username": "prpjzz",
-			"image_url": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-4-xl-1.jpg",
             "frame": null,
-            "active": true
+            "github_username": "prpjzz",
+            "image_url": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-4-xl-1.jpg",
+            "maintainer_name": "Rum1ka",
+            "model": "Pixel 4 XL",
+            "telegram_username": "prpjzz",
+            "vendor": "Google"
         },
-		{
-    "codename": "xaga",
-    "codename_alt": "xaga",
-    "vendor": "Xiaomi",
-    "model": "Redmi K50i",
-    "maintainer_name": "Rohan",
-    "telegram_username": "Itsrohan17",
-    "github_username": "itsrohan17",
-    "frame": null,
-    "active": true
-		}
-		
+        {
+            "active": true,
+            "codename": "xaga",
+            "codename_alt": "xaga",
+            "frame": null,
+            "github_username": "itsrohan17",
+            "maintainer_name": "Rohan",
+            "model": "Redmi K50i",
+            "telegram_username": "Itsrohan17",
+            "vendor": "Xiaomi"
+        }
     ]
 }
