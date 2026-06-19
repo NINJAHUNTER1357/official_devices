@@ -181,6 +181,18 @@
            "maintainer_name": "Thundergod",
            "frame": null,
            "active": true
+        },
+        {
+            "codename": "coral",
+            "codename_alt": "coral",
+            "vendor": "Google",
+            "model": "Pixel 4 XL",
+            "maintainer_name": "Rum1ka",
+            "telegram_username": "prpjzz",
+            "github_username": "prpjzz",
+			"image_url": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-4-xl-1.jpg",
+            "frame": null,
+            "active": true
         }
     ]
 }

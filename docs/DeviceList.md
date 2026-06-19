@@ -24,3 +24,6 @@ Here is the list of all the devices actively supprorted officially by Pixelify-A
 
 **Realme**
 1. realme GT Neo 3 (lisaa)
+
+**Google**
+1. Pixel 4 XL (coral)
